@@ -1,0 +1,765 @@
+[
+  {
+    "name": "胡馨尹",
+    "country": "中国四川",
+    "constellation": "射手座",
+    "slogan": "蝴蝶花-我的外号是“小蝴蝶”",
+    "company": "AKB48 CHINA"
+  },
+  {
+    "name": "沈莹",
+    "country": "中国上海",
+    "constellation": "双鱼座",
+    "slogan": "迎春花-要给大家带来更多希望和活力",
+    "company": "AKB48 CHINA"
+  },
+  {
+    "name": "刘雨昕",
+    "country": "中国贵州",
+    "constellation": "白羊座",
+    "slogan": "仙人掌-因为仙人掌不论四季寒冬都像勇士一样抬着头",
+    "company": "AMG亚洲音乐集团"
+  },
+  {
+    "name": "七穗",
+    "country": "日本",
+    "constellation": "处女座",
+    "slogan": "樱花-因为我来自日本有一种独特的芬芳气息",
+    "company": "Second Culture"
+  },
+  {
+    "name": "段艺璇",
+    "country": "中国湖南",
+    "constellation": "狮子座",
+    "slogan": "南瓜花-终会等到属于你的南瓜马车悄悄改变你的宿命",
+    "company": "SNH48"
+  },
+  {
+    "name": "费沁源",
+    "country": "中国上海",
+    "constellation": "双鱼座",
+    "slogan": "蒲公英-和我的头发一样风一吹就掉了",
+    "company": "SNH48"
+  },
+  {
+    "name": "莫寒",
+    "country": "中国贵州",
+    "constellation": "摩羯座",
+    "slogan": "火树银花-把最绚烂的自己展现给你",
+    "company": "SNH48"
+  },
+  {
+    "name": "宋昕冉",
+    "country": "中国山东",
+    "constellation": "巨蟹座",
+    "slogan": "含苞待放的玫瑰-热烈明艳温柔少刺",
+    "company": "SNH48"
+  },
+  {
+    "name": "苏杉杉",
+    "country": "中国湖北",
+    "constellation": "白羊座",
+    "slogan": "桃花-如果你喜欢春天我就是桃花舞翩翩",
+    "company": "SNH48"
+  },
+  {
+    "name": "孙芮",
+    "country": "中国黑龙江",
+    "constellation": "狮子座",
+    "slogan": "稻花-喜欢吃大米饭",
+    "company": "SNH48"
+  },
+  {
+    "name": "戴萌",
+    "country": "中国上海",
+    "constellation": "水瓶座",
+    "slogan": "假花-我是戴萌不是花",
+    "company": "SNH48"
+  },
+  {
+    "name": "许佳琪",
+    "country": "中国浙江",
+    "constellation": "处女座",
+    "slogan": "暗夜玫瑰-黑暗里带刺的红越夜越美丽",
+    "company": "SNH48_7SENSES"
+  },
+  {
+    "name": "许杨玉琢",
+    "country": "中国湖南",
+    "constellation": "天秤座",
+    "slogan": "桂花-因为杰尼龟要进化就是龟化（桂花）",
+    "company": "SNH48_7SENSES"
+  },
+  {
+    "name": "张语格",
+    "country": "中国黑龙江",
+    "constellation": "金牛座",
+    "slogan": "郁金香-厚积薄发一定会开出纯洁而高贵的花朵",
+    "company": "SNH48_7SENSES"
+  },
+  {
+    "name": "陈艺文",
+    "country": "中国山东",
+    "constellation": "双鱼座",
+    "slogan": "栀子花-约定之花和自己做的约定多远都会赴约",
+    "company": "TOV"
+  },
+  {
+    "name": "林凡",
+    "country": "中国四川",
+    "constellation": "天秤座",
+    "slogan": "笑开花-我是笑的无比灿烂的乐天派",
+    "company": "TOV"
+  },
+  {
+    "name": "陆柯燃",
+    "country": "中国江苏",
+    "constellation": "天蝎座",
+    "slogan": "棉花-天然柔和能够积蓄能量让人安心",
+    "company": "TOV"
+  },
+  {
+    "name": "陈品瑄",
+    "country": "中国台湾",
+    "constellation": "白羊座",
+    "slogan": "玛格丽特花-喜欢不喜欢喜欢不喜欢少女的心事它都懂",
+    "company": "TPG文创"
+  },
+  {
+    "name": "王承渲",
+    "country": "中国台湾",
+    "constellation": "天蝎座",
+    "slogan": "豆腐花-白白嫩嫩可盐可甜",
+    "company": "TPG文创"
+  },
+  {
+    "name": "王心茗",
+    "country": "中国台湾",
+    "constellation": "狮子座",
+    "slogan": "月光花-害怕强光白天闭合晚上开花很像我内敛的个性",
+    "company": "TPG文创"
+  },
+  {
+    "name": "郑玉歆",
+    "country": "中国台湾",
+    "constellation": "金牛座",
+    "slogan": "向日葵-阳光笑容就是我的招牌动作",
+    "company": "TPG文创"
+  },
+  {
+    "name": "乃万",
+    "country": "中国陕西",
+    "constellation": "射手座",
+    "slogan": "小苍兰-不同色彩的自己都可给人幸福感",
+    "company": "WR/OC"
+  },
+  {
+    "name": "左卓",
+    "country": "中国辽宁",
+    "constellation": "天蝎座",
+    "slogan": "蓝莲花-高音我都能上的去",
+    "company": "百沐娱乐"
+  },
+  {
+    "name": "傅如乔",
+    "country": "中国台湾",
+    "constellation": "双子座",
+    "slogan": "棉花-因为它白（皮肤白）又可以温暖人",
+    "company": "辰星娱乐"
+  },
+  {
+    "name": "卓依娜姆",
+    "country": "中国四川",
+    "constellation": "双子座",
+    "slogan": "木棉花-因为朴实柔软洁白干净",
+    "company": "诚利千代"
+  },
+  {
+    "name": "何美延",
+    "country": "中国广东",
+    "constellation": "巨蟹座",
+    "slogan": "山茶花-我希望像爷爷奶奶养的山茶花一样保持自我",
+    "company": "刺猬兄弟"
+  },
+  {
+    "name": "王清",
+    "country": "中国山东",
+    "constellation": "水瓶座",
+    "slogan": "棉花-弹棉花不断翻新自己温暖他人",
+    "company": "大王娱乐"
+  },
+  {
+    "name": "张钰",
+    "country": "中国北京",
+    "constellation": "处女座",
+    "slogan": "榴莲花-尽管外形不被看好但是果实要你好看",
+    "company": "大王娱乐"
+  },
+  {
+    "name": "林小宅",
+    "country": "中国广东",
+    "constellation": "天秤座",
+    "slogan": "太阳花-向着阳光努力生长希望我在的地方都能充满阳光",
+    "company": "点赞传播"
+  },
+  {
+    "name": "汪睿",
+    "country": "中国广东",
+    "constellation": "摩羯座",
+    "slogan": "稻花-会产出米粒做成米饭像我们一样越品越甜",
+    "company": "飞宝传媒"
+  },
+  {
+    "name": "符雅凝",
+    "country": "中国北京",
+    "constellation": "巨蟹座",
+    "slogan": "雪花-虽然很冷但是一碰就化",
+    "company": "果然娱乐"
+  },
+  {
+    "name": "葛鑫怡",
+    "country": "中国浙江",
+    "constellation": "摩羯座",
+    "slogan": "梨花-一朵梨花压海棠",
+    "company": "果然娱乐"
+  },
+  {
+    "name": "张洛菲",
+    "country": "中国河南",
+    "constellation": "水瓶座",
+    "slogan": "洛神花-名字带“洛”代表希望美丽和我",
+    "company": "果然娱乐"
+  },
+  {
+    "name": "金吉雅",
+    "country": "中国浙江",
+    "constellation": "天蝎座",
+    "slogan": "如花-哈哈哈因为和她一样自信DON'TCARE",
+    "company": "海盗音乐"
+  },
+  {
+    "name": "王瑶瑶",
+    "country": "中国河南",
+    "constellation": "天秤座",
+    "slogan": "牡丹花-洛阳牡丹甲天下我洛阳的",
+    "company": "好好榜样"
+  },
+  {
+    "name": "徐紫茵",
+    "country": "中国福建",
+    "constellation": "金牛座",
+    "slogan": "猪五花-可塑性极强有多种料理方式回了锅以后更香",
+    "company": "好好榜样"
+  },
+  {
+    "name": "申冰",
+    "country": "中国山东",
+    "constellation": "狮子座",
+    "slogan": "烟花-因为烟花是让人看了便忘不了的东西",
+    "company": "合纵文化"
+  },
+  {
+    "name": "申洁",
+    "country": "中国山东",
+    "constellation": "狮子座",
+    "slogan": "水花-因为滴下来的时候会引起很多涟漪",
+    "company": "合纵文化"
+  },
+  {
+    "name": "申清",
+    "country": "中国山东",
+    "constellation": "狮子座",
+    "slogan": "栀子花-与大家做个永恒的约定要做坚强的人",
+    "company": "合纵文化"
+  },
+  {
+    "name": "申玉",
+    "country": "中国山东",
+    "constellation": "狮子座",
+    "slogan": "眼花-因为我会迷得别人眼花缭乱",
+    "company": "合纵文化"
+  },
+  {
+    "name": "靳阳阳",
+    "country": "中国安徽",
+    "constellation": "水瓶座",
+    "slogan": "木兰花-要做巾帼女英雄",
+    "company": "河马影业"
+  },
+  {
+    "name": "孙美楠",
+    "country": "中国山东",
+    "constellation": "白羊座",
+    "slogan": "钢花-性格火辣非常刚",
+    "company": "河马影业"
+  },
+  {
+    "name": "徐轸轸",
+    "country": "中国安徽",
+    "constellation": "巨蟹座",
+    "slogan": "烟花-易燃易爆炸但还挺好看",
+    "company": "河马影业"
+  },
+  {
+    "name": "张梦露",
+    "country": "中国安徽",
+    "constellation": "巨蟹座",
+    "slogan": "雏菊-纯洁和平生命力顽强",
+    "company": "河马影业"
+  },
+  {
+    "name": "虞书欣",
+    "country": "中国上海",
+    "constellation": "射手座",
+    "slogan": "虞美人-因为我姓“虞”",
+    "company": "华策影业"
+  },
+  {
+    "name": "刘亚楠",
+    "country": "中国湖北",
+    "constellation": "白羊座",
+    "slogan": "西兰花-看起来和吃起来的味道一样就像我将情绪都挂脸上",
+    "company": "华谊兄弟时尚"
+  },
+  {
+    "name": "秦牛正威",
+    "country": "中国河南",
+    "constellation": "狮子座",
+    "slogan": "满天星-既能为繁花点缀又不易枯萎",
+    "company": "火星数娱"
+  },
+  {
+    "name": "杨宇彤",
+    "country": "中国北京",
+    "constellation": "狮子座",
+    "slogan": "仙人掌花-虽然外表有刺但是内心柔软火热",
+    "company": "火星数娱"
+  },
+  {
+    "name": "刘海涵",
+    "country": "中国山东",
+    "constellation": "天秤座",
+    "slogan": "烟花-一旦爆发要你好看",
+    "company": "嘉行新悦"
+  },
+  {
+    "name": "唐珂伊",
+    "country": "中国四川",
+    "constellation": "射手座",
+    "slogan": "窗花-热闹的日子少不了我",
+    "company": "嘉行新悦"
+  },
+  {
+    "name": "王雅乐",
+    "country": "中国安徽",
+    "constellation": "狮子座",
+    "slogan": "妙笔生花-文字爱好者",
+    "company": "嘉行新悦"
+  },
+  {
+    "name": "朱林雨",
+    "country": "中国河南",
+    "constellation": "天蝎座",
+    "slogan": "水仙花-干净清新爱装蒜",
+    "company": "嘉行新悦"
+  },
+  {
+    "name": "喻言",
+    "country": "中国北京",
+    "constellation": "双子座",
+    "slogan": "霸王花-听起来虽然吓人但是却有治病的功效",
+    "company": "嘉会传媒"
+  },
+  {
+    "name": "谢可寅",
+    "country": "中国四川",
+    "constellation": "摩羯座",
+    "slogan": "睡莲-因为我懒能躺着不站着",
+    "company": "嘉纳盛世"
+  },
+  {
+    "name": "安崎",
+    "country": "中国重庆",
+    "constellation": "金牛座",
+    "slogan": "无限烟花-因为BOOM",
+    "company": "匠星娱乐"
+  },
+  {
+    "name": "墨谣",
+    "country": "中国江苏",
+    "constellation": "双鱼座",
+    "slogan": "樱花-樱花和生日是同一个月樱花也很浪漫",
+    "company": "匠星娱乐"
+  },
+  {
+    "name": "上官喜爱",
+    "country": "中国吉林",
+    "constellation": "双子座",
+    "slogan": "爬山虎-看似不起眼一转身满墙都是",
+    "company": "匠星娱乐"
+  },
+  {
+    "name": "文哲",
+    "country": "中国四川",
+    "constellation": "处女座",
+    "slogan": "白色小雏菊-纯洁和平善良勇敢美丽",
+    "company": "匠星娱乐"
+  },
+  {
+    "name": "曾可妮",
+    "country": "中国湖北",
+    "constellation": "双子座",
+    "slogan": "高岭之花-外表高冷触不可及其实是一朵有趣的花",
+    "company": "觉醒东方"
+  },
+  {
+    "name": "刘令姿",
+    "country": "中国四川",
+    "constellation": "白羊座",
+    "slogan": "风信子-这是我的生日花",
+    "company": "觉醒东方"
+  },
+  {
+    "name": "米拉",
+    "country": "中国四川",
+    "constellation": "白羊座",
+    "slogan": "蔷薇花-耐心等待会让你看到满园不同的色彩",
+    "company": "觉醒东方"
+  },
+  {
+    "name": "欧若拉",
+    "country": "中国陕西",
+    "constellation": "摩羯座",
+    "slogan": "拉花-系上丝带想把自己打包成一份惊喜送给大家",
+    "company": "觉醒东方"
+  },
+  {
+    "name": "邹思扬",
+    "country": "中国湖南",
+    "constellation": "狮子座",
+    "slogan": "彼岸花-天使与恶魔并存神秘又美丽",
+    "company": "觉醒东方"
+  },
+  {
+    "name": "戴燕妮",
+    "country": "中国辽宁",
+    "constellation": "狮子座",
+    "slogan": "绿牡丹-对未来充满期待对喜欢的事情用心付出",
+    "company": "酷漾娱乐"
+  },
+  {
+    "name": "林韦希",
+    "country": "中国台湾",
+    "constellation": "摩羯座",
+    "slogan": "含羞草-我很害羞但还是渴望被了解",
+    "company": "莱恩娱乐"
+  },
+  {
+    "name": "艾依依",
+    "country": "中国重庆",
+    "constellation": "摩羯座",
+    "slogan": "月季花-表达了对幸福的期待我希望自己乐观积极一些",
+    "company": "乐华娱乐"
+  },
+  {
+    "name": "陈昕葳",
+    "country": "中国台湾",
+    "constellation": "摩羯座",
+    "slogan": "满天星-像繁星漫天做好自己的部分也能照亮大家",
+    "company": "乐华娱乐"
+  },
+  {
+    "name": "金子涵",
+    "country": "中国山东",
+    "constellation": "水瓶座",
+    "slogan": "梅花-在风雪中也能绽放希望自己是坚持不懈的人",
+    "company": "乐华娱乐"
+  },
+  {
+    "name": "宋昭艺",
+    "country": "中国山东",
+    "constellation": "天蝎座",
+    "slogan": "兰花-象征友情希望自己在节目中收获真挚的友情",
+    "company": "乐华娱乐"
+  },
+  {
+    "name": "希娅",
+    "country": "中国浙江",
+    "constellation": "水瓶座",
+    "slogan": "小雏菊-森林里精灵的化身在新的一天就会有新的希望",
+    "company": "乐华娱乐"
+  },
+  {
+    "name": "张天馨",
+    "country": "中国山东",
+    "constellation": "金牛座",
+    "slogan": "绣球花-希望通过我的努力让大家团聚迎接希望曙光",
+    "company": "乐辉文化"
+  },
+  {
+    "name": "阿依莎",
+    "country": "中国黑龙江",
+    "constellation": "白羊座",
+    "slogan": "爆米花-可甜可盐不定时会爆出惊喜",
+    "company": "鹭蒲印象"
+  },
+  {
+    "name": "蔡卓宜",
+    "country": "马来西亚",
+    "constellation": "白羊座",
+    "slogan": "雏菊-笑起来的我天真烂漫",
+    "company": "麦尼肯娱乐"
+  },
+  {
+    "name": "艾霖",
+    "country": "中国北京",
+    "constellation": "双子座",
+    "slogan": "向日葵-梦想路上的追光者",
+    "company": "美丽南方"
+  },
+  {
+    "name": "段小薇",
+    "country": "中国四川",
+    "constellation": "双鱼座",
+    "slogan": "玫瑰花-我有四根刺即使老虎来了我也不害怕",
+    "company": "萌样影视"
+  },
+  {
+    "name": "魏奇奇",
+    "country": "中国台湾",
+    "constellation": "双子座",
+    "slogan": "蓝风铃-因为笑声清脆",
+    "company": "萌样影视"
+  },
+  {
+    "name": "程曼鑫",
+    "country": "中国北京",
+    "constellation": "天秤座",
+    "slogan": "火焰兰-希望我可以成为你们心里那个忘不掉的人",
+    "company": "梦想青春音乐"
+  },
+  {
+    "name": "黄欣苑",
+    "country": "马来西亚",
+    "constellation": "天秤座",
+    "slogan": "玫瑰花-看似浑身是刺却又饱含深情",
+    "company": "木加互娱"
+  },
+  {
+    "name": "黄一鸣",
+    "country": "中国四川",
+    "constellation": "狮子座",
+    "slogan": "永生花-希望初心不变稚气不磨",
+    "company": "木加互娱"
+  },
+  {
+    "name": "熊钰清",
+    "country": "中国湖南",
+    "constellation": "水瓶座",
+    "slogan": "梅花-品性高洁傲霜斗雪",
+    "company": "木加互娱"
+  },
+  {
+    "name": "韩东",
+    "country": "中国湖北",
+    "constellation": "白羊座",
+    "slogan": "电火花-不是热性子但依然想在黑暗里多散发一些光芒",
+    "company": "少城时代"
+  },
+  {
+    "name": "黄小芸",
+    "country": "中国广西",
+    "constellation": "天秤座",
+    "slogan": "交际花-闲不住的性子拯救落单的人",
+    "company": "少城时代"
+  },
+  {
+    "name": "未书羽",
+    "country": "中国江西",
+    "constellation": "射手座",
+    "slogan": "笑花-瑞丽冠军笑靥如花",
+    "company": "少城时代"
+  },
+  {
+    "name": "许馨文",
+    "country": "中国湖南",
+    "constellation": "双鱼座",
+    "slogan": "浪花-永远要把前面的拍在岸上一浪更比一浪高",
+    "company": "少城时代"
+  },
+  {
+    "name": "查祎琛",
+    "country": "中国安徽",
+    "constellation": "天秤座",
+    "slogan": "大呲花-因为笑的时候会控制不住自己龇牙笑",
+    "company": "圣元互娱"
+  },
+  {
+    "name": "冯若航",
+    "country": "中国河南",
+    "constellation": "处女座",
+    "slogan": "麻花-可以维持生命的外面焦脆里面白的大麻花",
+    "company": "圣元互娱"
+  },
+  {
+    "name": "周琳聪",
+    "country": "中国浙江",
+    "constellation": "摩羯座",
+    "slogan": "葱花-虽然不起眼却是生活中必不可少的调味品",
+    "company": "圣元互娱"
+  },
+  {
+    "name": "孔雪儿",
+    "country": "中国湖北",
+    "constellation": "金牛座",
+    "slogan": "雪花-纯洁无暇",
+    "company": "泰洋川禾"
+  },
+  {
+    "name": "赵小棠",
+    "country": "中国北京",
+    "constellation": "白羊座",
+    "slogan": "东北大呲花-绚烂绽放大家又很爱",
+    "company": "泰洋川禾"
+  },
+  {
+    "name": "姚依凡",
+    "country": "中国陕西",
+    "constellation": "射手座",
+    "slogan": "海棠花-看起来很喜庆的感觉",
+    "company": "天加一"
+  },
+  {
+    "name": "周梓倩",
+    "country": "中国上海",
+    "constellation": "狮子座",
+    "slogan": "向日葵-我会储蓄能量传播给更多的人",
+    "company": "天加一"
+  },
+  {
+    "name": "杜紫怡",
+    "country": "中国天津",
+    "constellation": "狮子座",
+    "slogan": "麻花-既会为了目标拧成一股绳又很拧巴",
+    "company": "香蕉娱乐"
+  },
+  {
+    "name": "林慧博",
+    "country": "中国黑龙江",
+    "constellation": "摩羯座",
+    "slogan": "丁香花-我大哈尔滨的市花我要努力为我大哈尔滨争光",
+    "company": "香蕉娱乐"
+  },
+  {
+    "name": "粟钦柔",
+    "country": "中国四川",
+    "constellation": "摩羯座",
+    "slogan": "豆花-像豆花一样白喜欢吃带”豆”字的食物",
+    "company": "香蕉娱乐"
+  },
+  {
+    "name": "王姝慧",
+    "country": "中国陕西",
+    "constellation": "双子座",
+    "slogan": "爆米花-又甜又爆炸",
+    "company": "香蕉娱乐"
+  },
+  {
+    "name": "李熙凝",
+    "country": "中国辽宁",
+    "constellation": "天秤座",
+    "slogan": "棉花-白白的软软的 加“糖”还很好吃",
+    "company": "祥跃文化"
+  },
+  {
+    "name": "王思予",
+    "country": "中国北京",
+    "constellation": "狮子座",
+    "slogan": "野花-随意播撒就能蓬勃生长",
+    "company": "曜星文化"
+  },
+  {
+    "name": "魏辰",
+    "country": "中国河南",
+    "constellation": "巨蟹座",
+    "slogan": "随便花-想通过自己的努力让自己可以“随便花”",
+    "company": "曜星文化"
+  },
+  {
+    "name": "符佳",
+    "country": "中国辽宁",
+    "constellation": "处女座",
+    "slogan": "仙人掌花-浑身是刺生人勿近人狠话不多",
+    "company": "一综星船"
+  },
+  {
+    "name": "权笑迎",
+    "country": "中国河北",
+    "constellation": "白羊座",
+    "slogan": "迷迭香-香气迷人浓郁令人提神醒脑",
+    "company": "姊妹淘"
+  },
+  {
+    "name": "陈珏",
+    "country": "中国浙江",
+    "constellation": "狮子座",
+    "slogan": "黑玫瑰-黑色是我的保护色",
+    "company": "个人训练生"
+  },
+  {
+    "name": "勾雪莹",
+    "country": "中国黑龙江",
+    "constellation": "金牛座",
+    "slogan": "向日葵-像太阳一样永远照亮身边人",
+    "company": "个人训练生"
+  },
+  {
+    "name": "李依宸",
+    "country": "中国北京",
+    "constellation": "双鱼座",
+    "slogan": "茉莉-我以前叫“李茉”倒过来就是茉莉",
+    "company": "个人训练生"
+  },
+  {
+    "name": "马蜀君",
+    "country": "中国四川",
+    "constellation": "水瓶座",
+    "slogan": "小雏菊-虽然不起眼但依然独自芬芳",
+    "company": "个人训练生"
+  },
+  {
+    "name": "王婉辰",
+    "country": "中国山东",
+    "constellation": "巨蟹座",
+    "slogan": "西兰花-可以变瘦变美天然健康",
+    "company": "个人训练生"
+  },
+  {
+    "name": "王欣宇",
+    "country": "中国黑龙江",
+    "constellation": "摩羯座",
+    "slogan": "小花-因为我个子矮长得小",
+    "company": "个人训练生"
+  },
+  {
+    "name": "夏研",
+    "country": "中国安徽",
+    "constellation": "巨蟹座",
+    "slogan": "仙人掌-不管环境多么恶劣生命力依然顽强",
+    "company": "个人训练生"
+  },
+  {
+    "name": "徐百仪",
+    "country": "中国台湾",
+    "constellation": "天秤座",
+    "slogan": "紫丁香-对自己热爱的事永不变心抱有持之以恒的热爱",
+    "company": "个人训练生"
+  },
+  {
+    "name": "张楚寒",
+    "country": "中国湖北",
+    "constellation": "摩羯座",
+    "slogan": "脑花-想法很多以形补形",
+    "company": "个人训练生"
+  }
+]
