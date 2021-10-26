@@ -8,7 +8,6 @@ import requests
 
 # https://www.pearvideo.com/video_1744464 页面链接
 # https://video.pearvideo.com/mp4/adshort/20211025/cont-1744464-15787050_adpkg-ad_hd.mp4 播放链接
-# https://video.pearvideo.com/mp4/adshort/20211025/cont-1744464-15787050_adpkg-ad_hd.mp4
 # https://video.pearvideo.com/mp4/adshort/20211025/1635257300512-15787050_adpkg-ad_hd.mp4 后端返回链接，加密处理过
 # 页面
 cont_id = "1744193"
